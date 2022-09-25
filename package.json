@@ -15,13 +15,13 @@
 		"nodes",
 		"connector"
      ],
-    "node-red"     	: {
+    "node-red"      : {
 		"version"   : ">=2.0.0",
         "nodes"     : {
             "connector": "connector.js"
         }
     },
-	"engines"       : {
+	"engines"   : {
         "node"      : ">=18"
     }
 }
