@@ -15,22 +15,13 @@
         "nodes",
         "connector"
      ],
-<<<<<<< HEAD
     "node-red"      : {
 		"version"   : ">=2.0.0",
-=======
-    "node-red"     	: {
-        "version"   : ">=2.0.0",
->>>>>>> 41b0d6e (typo)
         "nodes"     : {
             "connector": "connector.js"
         }
     },
-<<<<<<< HEAD
 	"engines"   : {
-=======
-    "engines"       : {
->>>>>>> 41b0d6e (typo)
         "node"      : ">=18"
     }
 }
