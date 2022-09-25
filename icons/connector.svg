@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="preserve"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="connector.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs8" /><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="12.859375"
+   inkscape:cx="32.038882"
+   inkscape:cy="32.038882"
+   inkscape:window-width="1920"
+   inkscape:window-height="995"
+   inkscape:window-x="1920"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg4" />
+    <path
+   d="M39.243 13.892c0-3.999-3.244-7.242-7.243-7.242a7.244 7.244 0 0 0-2.866 13.896v22.913a7.246 7.246 0 0 0-4.377 6.649c0 3.999 3.244 7.242 7.243 7.242a7.244 7.244 0 0 0 2.866-13.896V20.546a7.254 7.254 0 0 0 4.377-6.654Zm-3.068 36.216a4.182 4.182 0 0 1-4.18 4.18 4.182 4.182 0 0 1-4.18-4.18 4.182 4.182 0 0 1 4.18-4.18 4.179 4.179 0 0 1 4.18 4.18zM32 18.073a4.182 4.182 0 0 1-4.18-4.18A4.182 4.182 0 0 1 32 9.712a4.182 4.182 0 0 1 4.18 4.18 4.185 4.185 0 0 1-4.18 4.18z"
+   style="stroke-width:0.0517333;fill:#ffffff"
+   id="path2" />
+</svg>
