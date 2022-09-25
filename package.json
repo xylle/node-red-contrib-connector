@@ -1,27 +1,27 @@
 {
     "name"          : "@xylle/node-red-connector",
     "version"       : "0.0.1",
-    "description"	: "A connector node for node-red",
-    "homepage"		: "http://nodered.org",
-    "license"		: "CeCILL-B",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/node-red/node-red-nodes.git"
+    "description"   : "A connector node for node-red",
+    "homepage"      : "http://nodered.org",
+    "license"       : "CeCILL-B",
+    "repository"    : {
+        "type"      : "git",
+        "url"       : "https://github.com/node-red/node-red-nodes.git"
     },
-    "dependencies"	: {
+    "dependencies"  : {
     },
-    "keywords"		: [ 
+    "keywords"      : [ 
 		"node-red",
 		"nodes",
 		"connector"
      ],
     "node-red"     	: {
-		"version"	: ">=2.0.0",
-        "nodes"		: {
+		"version"   : ">=2.0.0",
+        "nodes"     : {
             "connector": "connector.js"
         }
     },
-	"engines"		: {
-        "node"		: ">=18"
+	"engines"       : {
+        "node"      : ">=18"
     }
 }
