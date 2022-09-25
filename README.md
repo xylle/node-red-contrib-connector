@@ -5,7 +5,7 @@ A connector node for node-red
 Sympli do nothing, just connect other node.
 
 ## Screenshot
-<img src="Screenshot/demo.png">
+<img src="https://raw.githubusercontent.com/xylle/node-red-contrib-connector/master/Screenshot/demo.png">
 
 ## Flow
 
