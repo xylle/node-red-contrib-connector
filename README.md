@@ -7,8 +7,6 @@ Sympli do nothing, just connect other node.
 ## Screenshot
 <img src="https://raw.githubusercontent.com/xylle/node-red-contrib-connector/master/Screenshot/demo.png">
 
-## Flow
+## Example
+See : [examples/example.json]
 
-```json:examples/example.json
-
-```
