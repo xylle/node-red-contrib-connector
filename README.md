@@ -9,6 +9,6 @@ Sympli do nothing, just connect other node.
 
 ## Flow
 
-```json:example/example.json
+```json:examples/example.json
 
 ```
