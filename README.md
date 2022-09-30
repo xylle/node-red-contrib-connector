@@ -8,5 +8,5 @@ Sympli do nothing, just connect other node.
 <img src="https://raw.githubusercontent.com/xylle/node-red-contrib-connector/master/Screenshot/demo.png">
 
 ## Sample flow
-See : examples/example.json
+See : examples/connector.json
 
