@@ -1,8 +1,8 @@
 {
     "name"          : "@xylle/node-red-connector",
-    "version"       : "0.0.2",
+    "version"       : "0.0.3",
     "description"   : "A connector node for node-red",
-    "homepage"      : "http://nodered.org",
+    "homepage"      : "https://github.com/xylle/node-red-contrib-connector",
     "license"       : "CeCILL-B",
     "repository"    : {
         "type"      : "git",
